@@ -1,0 +1,22 @@
+{
+  "name": "learn-docker",
+  "version": "1.0.0",
+  "description": "I am learnig `Docker` from `Piyush Garg` YouTube Cannel The Vedio Title was `Docker In One Shot - Part 1`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/configbd/Learn-Docker.git"
+  },
+  "author": "Abdur Rahman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/configbd/Learn-Docker/issues"
+  },
+  "homepage": "https://github.com/configbd/Learn-Docker#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
